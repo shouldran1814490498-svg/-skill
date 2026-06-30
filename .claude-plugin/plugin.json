@@ -1,5 +1,5 @@
 {
-  "name": "pharma-marketing-skills",
-  "description": "药品社媒外投全流程技能合集：策略生成→达人筛选→内容生成&审核→比价核验，支持单独使用或流水线串联",
+  "name": "drug-strategy-generator",
+  "description": "药品社媒投放策略生成：输入药品名，输出完整投放策略报告（利益点拆解、用户画像、竞品格局、达人矩阵）",
   "author": { "name": "shouldran1814490498-svg" }
 }
