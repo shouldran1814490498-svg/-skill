@@ -15,8 +15,8 @@
 | 输入项 | 说明 | 示例 |
 |--------|------|------|
 | 投放方案PDF/文档 | 产品策略背景，用于理解筛选方向 | 泰尔丝外投方案.pdf |
-| 达人资源表 | Joyspace文档链接 **或** 本地Excel；含达人昵称、平台、科室、粉丝量、刊例价等 | https://joyspace.jd.com/pages/xxxx 或 网红医生资源表.xlsx |
-| 蒲公英报价库 | Joyspace文档链接 **或** 本地Excel；蒲公英平台官方报价数据 | https://joyspace.jd.com/sheets/xxxx 或 蒲公英平台报价库.xlsx |
+| 达人资源表 | Joyspace文档链接 **或** 本地Excel；含达人昵称、平台、科室、粉丝量、刊例价等 | https://joyspace.jd.com/sheets/4zE9q3tyoIvsNKTNghMd?themeColor=rainbow&env=timline&lang=zh_CN 或 网红医生资源表.xlsx |
+| 蒲公英报价库 | Joyspace文档链接 **或** 本地Excel；蒲公英平台官方报价数据 | https://joyspace.jd.com/sheets/zLYydbGAzSAEUNscQaL3 或 蒲公英平台报价库.xlsx |
 | 投放渠道 | 小红书 / 抖音 / 其他（可多选） | 仅小红书 |
 | 总预算 | 投放预算金额 | 100万 |
 | 头腰部预算占比 | 头部(>=50w粉):腰部(10-50w粉)的预算比 | 4:6 |
